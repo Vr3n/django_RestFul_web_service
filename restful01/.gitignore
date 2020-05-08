@@ -1,4 +1,4 @@
 .vscode/
 **/migrations/
 **/__pycache__/
-
+**/secret_details.py
